@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yethmi Liyanaarachchi</h1>
 <h3 align="center">Second-year Information Technology undergraduate at SLIIT</h3>
-
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yethmiliyanaarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="yethmiliyanaarachchi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yethmiliyanaarachchi" alt="yethmiliyanaarachchi" /></a> </p>
 
 - 🔭 I’m currently studying on **SLIIT**
 
@@ -26,4 +24,3 @@
 <p><a href="https://www.buymeacoffee.com/Buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yethmiliyanaarachchi&show_icons=true&locale=en&layout=compact" alt="yethmiliyanaarachchi" /></p>
-
